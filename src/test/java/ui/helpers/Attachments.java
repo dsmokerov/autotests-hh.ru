@@ -53,9 +53,4 @@ public class Attachments {
         }
         return null;
     }
-
-    // Определяем ID сессии для прикрепления видео к определенному тесту
-    public static String getSessionId() {
-        return ((RemoteWebDriver) getWebDriver()).getSessionId().toString();
-    }
 }
