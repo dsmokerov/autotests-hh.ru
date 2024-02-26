@@ -43,6 +43,7 @@ public class Attachments {
                 + getVideoUrl()
                 + "' type='video/mp4'></video></body></html>";
     }
+    
     public static URL getVideoUrl() {
         String videoUrl = Configuration.remote + Selenide.sessionId() + ".mp4";
 
