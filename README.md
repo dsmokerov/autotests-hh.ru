@@ -12,7 +12,7 @@
 * <a href="#cases">Реализованные проверки</a>
 * <a href="#console">Запуск тестов</a>
 * <a href="#allure">Пример Allure-отчета</a>
-* <a href="#selenoidvideo">Пример запуска тестов в Selenoid</a>
+* <a href="#selenoidvideo">Пример запуска UI-тестов в Selenoid</a>
 
 <a id="description"></a>
 
@@ -118,7 +118,7 @@ BROWSER="chrome 121.0" BROWSER_SIZE="1920x1080" REMOTE_URL="http://localhost:444
 
 <a id="allure"></a>
 
-## Отчеты в Allure Report
+## Пример Allure-отчета
 
 ### Allure-отчет для UI-тестов
 
@@ -134,7 +134,7 @@ BROWSER="chrome 121.0" BROWSER_SIZE="1920x1080" REMOTE_URL="http://localhost:444
 
 <a id="selenoidvideo"></a>
 
-## Пример прогона UI-теста в Selenoid
+## Пример запуска UI-тестов в Selenoid
 
 <p align="center">
   <img src="images/video/Selenoid.gif" width="1200">
